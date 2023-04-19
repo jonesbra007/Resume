@@ -1,0 +1,24 @@
+body{
+    background-color: #555555;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+
+.common{
+    background-color: #cccccc;
+    border: 2px solid white;
+}
+.header{
+    color: darkslategrey;
+    border-width: 3px;
+    border-style: dotted;
+    position: absolute;
+    text-align: center;
+}
+.subheader{
+    text-align: center;
+}
+.links{
+    border-style: dotted;
+    border-color: darkslategrey;
+    border-width: 3px;
+}
